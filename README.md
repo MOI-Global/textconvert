@@ -1,6 +1,6 @@
 # Text Converter
 
-An internal project allowing users to convert text specifically for Wordpress Content, EDM's and Campain Monitor.
+An internal project allowing users to convert text specifically for Wordpress Content, EDM's and Campaign Monitor.
 
 
 ## Instructions
